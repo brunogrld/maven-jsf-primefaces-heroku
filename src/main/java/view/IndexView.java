@@ -12,7 +12,7 @@ public class IndexView {
     private String message;
 
     public IndexView(){
-        message = "Hello";
+        message = "Hello bruno";
     }
 
     public String getMessage() {
